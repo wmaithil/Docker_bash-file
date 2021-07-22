@@ -1,0 +1,12 @@
+docker ps -a 
+
+docker start "container name"
+
+
+docker exec $"cont nam" service nginx start
+
+service nginx stop
+
+cd /etc/nginx/nginx/conf
+
+cd /var/log/access.log
